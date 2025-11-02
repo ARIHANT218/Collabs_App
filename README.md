@@ -1,4 +1,4 @@
-# 🧠 Collabs — Real-Time Collaboration Platform (MERN Stack)
+# 🧠 Collabs — Real-Time Collaboration Platform ...
 
 
 > **A Notion-like real-time collaboration app built with MERN Stack, empowering teams to create, edit, and collaborate on documents simultaneously.**
